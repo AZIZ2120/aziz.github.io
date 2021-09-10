@@ -1,0 +1,40 @@
+body {
+   background-color: aqua;
+   text-align: center;
+  }
+  #cercle {
+    position: relative;
+    background-color: black;
+    border: solid 5px black;
+    margin: 90px auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 300px;
+    margin-top: 6px;
+    margin-left: 615px;
+}
+#cercle1 {
+  position: relative;
+  background-color: white;
+  border: solid 5px rgb(5, 119, 43);
+  margin: 90px auto;
+  height: 100px;
+  width: 100px;
+  border-radius: 300px;
+  margin-top: 7px;
+  margin-left: 615px;
+}
+#carré {
+    width  : 100px;
+    height : 100px;
+    background : black;
+    margin-left: 615px;
+}
+#ovale {
+    width : 70px;
+    height : 100px;
+    background : black;
+    border-radius : 50% / 60% 60% 40% 40%;
+    margin-left: 630px;
+    margin-top: 50px;
+  }
